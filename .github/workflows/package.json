@@ -1,6 +1,7 @@
 {
-  "dependencies": {
-    "@azure/cosmos": "^4.2.0",
-    "dotenv": "^16.4.7"
+  "name": "guestbook-app",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'No build required'"
   }
 }
