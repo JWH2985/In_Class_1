@@ -1,0 +1,28 @@
+.entry {
+    margin-bottom: 1.5rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.entry:last-child {
+    border-bottom: none;
+}
+
+.entry-header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.5rem;
+}
+
+.entry-name {
+    font-weight: bold;
+}
+
+.entry-timestamp {
+    color: #6c757d;
+    font-size: 0.85rem;
+}
+
+.entry-message {
+    white-space: pre-line;
+}
